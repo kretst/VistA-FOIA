@@ -1,6 +1,6 @@
 DOMAIN
 ZWR
-^DIC(4.2,0)="DOMAIN^4.2I^65^60"
+^DIC(4.2,0)="DOMAIN^4.2I^66^61"
 ^DIC(4.2,0,"AUDIT")="@"
 ^DIC(4.2,0,"DD")="@"
 ^DIC(4.2,0,"DEL")="@"
@@ -364,6 +364,7 @@ ZWR
 ^DIC(4.2,65,5,3,0)="Certification System (OLCS) in Austin with the Miscellaneous Obligation"
 ^DIC(4.2,65,5,4,0)="(1358) data elements to support segregation of duties. Domain was created"
 ^DIC(4.2,65,5,5,0)="By MailMan patch XM*DBA*175."
+^DIC(4.2,66,0)="DEMO.OSEHRA.ORG"
 ^DIC(4.2,"%",0)="^1.005^1^1"
 ^DIC(4.2,"%",1,0)="XM"
 ^DIC(4.2,"%","B","XM",1)=""
@@ -411,6 +412,7 @@ ZWR
 ^DIC(4.2,"AD","TOP",49)=""
 ^DIC(4.2,"AD","UPN",51)=""
 ^DIC(4.2,"ATCP",0,4)=""
+^DIC(4.2,"B","DEMO.OSEHRA.ORG",66)=""
 ^DIC(4.2,"B","EIE.MED.VA.GOV",24)=""
 ^DIC(4.2,"B","EPHARMACY.VITRIA-EDI.AAC.VA.GO",16)=""
 ^DIC(4.2,"B","FHIE.MED.VA.GOV",14)=""
